@@ -1,0 +1,1 @@
+This error occurs when you try to access a property of an object before it has been fully initialized or rendered.  It often manifests as `undefined is not an object (evaluating 'object.property')` or similar variations, typically within a React Native component's lifecycle methods or event handlers.
